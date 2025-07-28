@@ -382,9 +382,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- **Documentation**: [GitHub Wiki](https://github.com/dripemails/dripemails-smtp/wiki)
-- **Issues**: [GitHub Issues](https://github.com/dripemails/dripemails-smtp/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/dripemails/dripemails-smtp/discussions)
+- **Documentation**: [GitHub Wiki](https://github.com/dripemails/smtp_server/wiki)
+- **Issues**: [GitHub Issues](https://github.com/dripemails/smtp_server/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/dripemails/smtp_server/discussions)
 - **Email**: founders@dripemails.org
 
 ## 🙏 Acknowledgments
